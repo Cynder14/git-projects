@@ -1,0 +1,9 @@
+Make a game, full screen, that can read a PNG file to use for the background,
+
+Make a sprite/character that is a red circle and can be moved, 
+
+Bonus to get the sprite to be a PNG instead of the circle.
+
+and have an understandable file structure.
+
+charge a cs_go key
